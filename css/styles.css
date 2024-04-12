@@ -542,6 +542,7 @@ img {
   height: 100%;
   background: rgba(46, 47, 66, 0.4);
 }
+
 .modal {
   position: absolute;
   top: 50%;
@@ -552,10 +553,17 @@ img {
   width: 408px;
   min-height: 584px;
 }
+
 .modal-close-btn {
   position: absolute;
   top: 24px;
   right: 24px;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  padding: 0;
+  cursor: pointer;
 }
+
 .close-icon-icon {
 }
