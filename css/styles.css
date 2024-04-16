@@ -680,6 +680,9 @@ img {
 .modal-fild {
   margin-bottom: 8px;
 }
+.m-fild {
+  margin-bottom: 16px;
+}
 
 .modal-input {
   width: 100%;
